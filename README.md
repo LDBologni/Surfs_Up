@@ -12,6 +12,8 @@ The purpose of the project is to provide help to W. Avy, he is interested in own
 
 - 9.0 degrees variance in the minimum temperatures between June and December.
 
+
+
 - June Temperature Stats:
 
 ![June_Temps_Stats](https://user-images.githubusercontent.com/98929742/163732368-6f2dda95-8301-4857-9ccd-58a2ec483e3d.PNG)
