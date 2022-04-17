@@ -38,10 +38,10 @@ Additional information that would be helpful is determine the precipitation betw
 
 ## Summary
 
-With the data provided W. Avy certainly has great foresight of the temperatures and the precipitations, and decide if there are right to sell ice cream and surf gear.
+With the data provided W. Avy certainly has a better understanding of the temperatures and the precipitations, he would decide if there are right to sell ice cream and surf gear.
 
 Mr. W. Avy would need to consider the following insights:
 
-- June has the highest average and highest single temperature. (Summer season)
+- June has the highest average temperature and highest single temperature. (Summer season)
 - June has more precipitation count, 1,574 in June as per 1,405 in December
 - December has the highest precipitation with 6.42
