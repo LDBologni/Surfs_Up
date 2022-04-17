@@ -12,6 +12,23 @@ The purpose of the project is to provide help to W. Avy, he is interested in own
 
 - 9.0 degrees variance in the minimum temperatures between June and December.
 
+- June Temperature Stats:
+
 ![June_Temps_Stats](https://user-images.githubusercontent.com/98929742/163732368-6f2dda95-8301-4857-9ccd-58a2ec483e3d.PNG)
 
-                                                           ![image](https://user-images.githubusercontent.com/98929742/163732192-eb05f66d-665c-4b9f-85da-d6a9a21c29c9.png)
+ 
+- December Temperature Stats:
+
+![image](https://user-images.githubusercontent.com/98929742/163732192-eb05f66d-665c-4b9f-85da-d6a9a21c29c9.png)
+
+
+Additional information that would be helpful is determine the precipitation between this two months
+
+- June Precipitation Stats:
+
+![image](https://user-images.githubusercontent.com/98929742/163732508-f67d1bae-99fc-4925-b19d-ad84e39eaa9a.png)
+
+
+- December Precipitation Stats:
+
+![image](https://user-images.githubusercontent.com/98929742/163732530-d24ba215-84e4-40ee-8481-572bdb705b25.png)
